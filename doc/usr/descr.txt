@@ -1,0 +1,5 @@
+Scripts that display the temperature of the sensors of miscellaneous system devices:
+- CPU
+- RAM
+- HDD
+- Possibly others
